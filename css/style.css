@@ -568,6 +568,5 @@ img.logo-white {width: 180px;}
 }
 
 
-.row.justify-content-center .chairmanimgP {
-    text-align: center;
-}
+.row.justify-content-center .chairmanimgP {text-align: center;}
+a.btn.btn-outline-primary:hover {color: #FFF;}
