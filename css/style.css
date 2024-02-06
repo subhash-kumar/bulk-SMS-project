@@ -258,7 +258,7 @@ img.logo-white {width: 180px;}
 .partners-slider{max-width:1260px;margin:0 auto}
 .partners-slider h5{font-size:1.6875rem;font-weight:700}
 .our_client{padding:0 2rem;margin-top:4rem}
-.partners-slider .item img{width:auto;margin:0 auto}
+.partners-slider .item img{width:auto;margin:0 auto;}
 .partners-slider .owl-nav button.owl-prev,.partners-slider .owl-nav button.owl-next{background:#fff;text-align:center;border-radius:0;color:#1f1545;font-size:2.3rem;position:absolute;top:15%}
 .partners-slider .owl-nav button.owl-prev{left:0}
 .partners-slider .owl-nav button.owl-next{right:0}
